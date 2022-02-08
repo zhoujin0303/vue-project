@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <p>我是根组件</p>
+    <h2>App</h2>
     <hr>
     <Father/>
     <!-- <vueProvideInject/> -->
